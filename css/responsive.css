@@ -1,0 +1,1477 @@
+/* Monitor (1920px)  */
+@media(min-width: 1441px) and (max-width: 1920px) {
+    .logo-img {
+        width: 280px;
+    }
+
+    .nav-menu a {
+        font-size: 24px;
+    }
+
+    .quote-btn {
+        font-size: 24px;
+    }
+
+    .hero-section {
+        height: 780px;
+    }
+
+    .hero {
+        margin: 0 230px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .srvc-top-rht h4 {
+        font-size: 24px;
+    }
+
+    .srvc-top-rht p {
+        font-size: 18px;
+    }
+
+    .srvc-card img {
+        width: 420px;
+    }
+
+    .srvc-card h3 {
+        font-size: 28px;
+    }
+
+    .srvc-card p,
+    .book-btn {
+        font-size: 20px;
+    }
+
+    .prms-lft .one {
+        font-size: 20px;
+    }
+
+    .prms-lft .two {
+        font-size: 22px;
+    }
+
+    .prms-rht .background {
+        width: 400px;
+    }
+
+    .prms-rht .foreground {
+        width: 245px;
+    }
+
+    .exp-top .rht h4 {
+        font-size: 24px;
+    }
+
+    .exp-prf {
+        width: 420px;
+        height: 570px;
+    }
+
+    .exp-top .rht p {
+        font-size: 20px;
+    }
+
+    .exp-prf img {
+        width: 420px;
+    }
+
+    .exp-prf .name {
+        font-size: 28px;
+    }
+
+    .com-lft .background img {
+        width: 400px;
+    }
+
+    .com-lft .foreground img {
+        width: 265px;
+    }
+
+    .com-rht {
+        width: 570px;
+    }
+
+    .feature {
+        width: 100%;
+    }
+
+    .feature-one p,
+    .feature-two p {
+        font-size: 17px;
+    }
+
+    .cta-btn a {
+        font-size: 20px;
+    }
+
+    .prc-card {
+        width: 400px;
+    }
+
+    .plan-ft li {
+        font-size: 18px;
+    }
+
+    .book-btn-3 a {
+        font-size: 20px;
+    }
+
+    .rvw-lft-p2 {
+        font-size: 18px;
+    }
+
+    .rvw-swch i {
+        font-size: 20px;
+    }
+
+    .rvw-name {
+        font-size: 24px;
+    }
+
+    .rvw-profession {
+        font-size: 16px;
+    }
+
+    .rvw-rht-down {
+        font-size: 18px;
+
+    }
+
+    .rvw-cont {
+        margin-top: 330px;
+    }
+
+    .blg-hd-p1 {
+        font-size: 24px;
+    }
+
+    .blg-hd-p2 {
+        font-size: 20px;
+    }
+
+    .blog-card-p1 {
+        font-size: 16px;
+    }
+
+    .blog-card-p2 {
+        font-size: 22px;
+    }
+
+    .blog-card-p3 {
+        font-size: 18px;
+    }
+
+    .rd-more-btn {
+        font-size: 20px;
+    }
+
+    .contact-rht-p1 {
+        font-size: 18px;
+    }
+
+    .contact-rht-p2 {
+        font-size: 40px;
+    }
+
+    .contact-rht-p3 {
+        font-size: 18px;
+    }
+
+    .form input,
+    .form textarea {
+        margin: 10px 0;
+    }
+
+    .submit-btn {
+        font-size: 20px;
+        width: 40%;
+    }
+
+    .foot-logo img {
+        width: 220px;
+    }
+
+    .footer-1 p {
+        font-size: 18px;
+    }
+
+    .foot-ft-hd {
+        font-size: 22px;
+    }
+
+    .footer-2 a,
+    .footer-3 a {
+        font-size: 18px;
+    }
+
+    .news {
+        font-size: 24px;
+    }
+
+    .news-mail::placeholder {
+        font-size: 18px;
+    }
+
+    .send-btn {
+        font-size: 18px;
+        width: 40%;
+    }
+}
+
+/* Laptop - L (1440px) */
+@media (min-width: 1025px) and (max-width: 1440px) {
+
+    /* Styles for large laptops */
+    .container {
+        max-width: 1170px;
+    }
+
+}
+
+
+
+
+/* Laptop - M (1024px) */
+@media (min-width: 769px) and (max-width: 1024px) {
+
+    /* Styles for medium laptops and landscape tablets */
+    .container {
+        max-width: 960px;
+    }
+
+    .logo-img {
+        width: 200px;
+
+    }
+
+    .nav-menu ul {
+        gap: 20px;
+    }
+
+    .nav-menu a,
+    .quote-btn {
+        font-size: 18px;
+    }
+
+    .hero {
+        padding: 100px 35px;
+    }
+
+    .hero-txt .p1 {
+        font-size: 16px;
+    }
+
+    .hero-txt h1 {
+        font-size: 32px;
+    }
+
+    .hero-txt .p2 {
+        font-size: 16px;
+    }
+
+    .cta-btn {
+        font-size: 16px;
+    }
+
+    .srvc-top-lft h1 {
+        font-size: 28px;
+    }
+
+    .srvc-top-rht h4 {
+        font-size: 18px;
+    }
+
+    .srvc-top-rht p {
+        font-size: 16px;
+    }
+
+    .srvc-card img {
+        width: 300px;
+    }
+
+    .srvc-card h3 {
+        font-size: 20px;
+    }
+
+    .srvc-card p {
+        font-size: 16px;
+        width: 300px;
+    }
+
+    .book-btn {
+        font-size: 12px;
+    }
+
+    .prms-lft .one {
+        font-size: 14px;
+    }
+
+    .prms-lft h1 {
+        font-size: 32px;
+    }
+
+    .prms-lft .two {
+        font-size: 16px;
+    }
+
+    .promise .quote-btn {
+        font-size: 12px;
+    }
+
+    .prms-lft {
+        width: 460px;
+    }
+
+    .exp-top .lft {
+        width: 500px;
+        font-size: 26px;
+    }
+
+    .exp-top .rht {
+        width: 400px;
+    }
+
+    .exp-top .rht h4 {
+        font-size: 18px;
+    }
+
+    .exp-top .rht p {
+        font-size: 14px;
+    }
+
+    .exp-prf {
+        width: 300px;
+        height: 440px;
+    }
+
+    .exp-det img {
+        width: 300px;
+        margin-bottom: 18px;
+    }
+
+    .exp-det .name {
+        font-size: 20px;
+    }
+
+    .rating {
+        font-size: 12px;
+    }
+
+    .exp-det p {
+        font-size: 14px;
+        width: 270px;
+    }
+
+    .social {
+        font-size: 12px;
+    }
+
+    .com-lft {
+        max-width: 460px;
+    }
+
+    .com-lft .background img {
+        width: 320px;
+    }
+
+    .com-lft .foreground img {
+        width: 220px;
+        margin-bottom: 80px;
+    }
+
+    .com-rht {
+        max-width: 480px;
+    }
+
+    .com-rht h1 {
+        font-size: 32px;
+        width: 480px;
+    }
+
+    .com-para {
+        font-size: 14px;
+        width: 470px;
+    }
+
+    .feature {
+        gap: 10px;
+    }
+
+    .feature p {
+        font-size: 13px;
+    }
+
+    .feature-one p,
+    .feature-two p {
+        padding: 10px 5px;
+    }
+
+    .cta-btn a {
+        font-size: 14px;
+        padding: 14px 25px;
+    }
+
+    .prc-hd-1 {
+        font-size: 18px;
+    }
+
+    .prc-hd-2 {
+        font-size: 32px;
+    }
+
+    .time {
+        width: 220px;
+        height: 40px;
+        margin-top: 20px;
+    }
+
+    .month-price a {
+        padding: 6px 20px;
+        font-size: 16px;
+    }
+
+    .year-price a {
+        font-size: 16px;
+    }
+
+    .prc-crd {
+        width: 280px;
+        padding: 30px 25px;
+        margin-top: 40px;
+    }
+
+    .prc-crd-head {
+        font-size: 16px;
+        margin: 20px auto;
+    }
+
+    .prc p {
+        font-size: 16px;
+    }
+
+    .rate {
+        font-size: 24px;
+    }
+
+    .plan-ft {
+        font-size: 13px;
+    }
+
+    .book-btn-3 a {
+        padding: 20px 30px;
+    }
+
+    .rvw-lft-p1 {
+        font-size: 32px;
+    }
+
+    .rvw-lft-p2 {
+        font-size: 14px;
+    }
+
+    .rvw-lft {
+        width: 460px;
+    }
+
+    .rvw-swch i {
+        font-size: 12px;
+    }
+
+    .rvw-img {
+        width: 150px;
+    }
+
+    .rvw-rht {
+        width: 500px;
+    }
+
+    .rvw-name {
+        font-size: 16px;
+    }
+
+    .rvw-profession {
+        font-size: 14px;
+    }
+
+
+    .review-star {
+        font-size: 10px;
+    }
+
+    .rvw-rht-down {
+        font-size: 13px;
+    }
+
+    .fa-quote-right {
+        font-size: 32px;
+    }
+
+    .blog-head-lft {
+        font-size: 32px;
+    }
+
+    .blg-hd-p1 {
+        font-size: 16px;
+    }
+
+    .blg-hd-p2 {
+        font-size: 14px;
+    }
+
+    .blog-card img {
+        width: 280px;
+    }
+
+    .blog-card-p1 {
+        font-size: 13px;
+    }
+
+    .blog-card-p2 {
+        font-size: 16px;
+    }
+
+    .blog-card-p3 {
+        font-size: 14px;
+    }
+
+    .blog-detail {
+        width: 270px;
+        padding: 0;
+    }
+
+    .rd-more-btn {
+        width: 200px;
+        font-size: 14px;
+    }
+
+    .find-us {
+        font-size: 32px;
+    }
+
+    .contact-lft {
+        width: 470px;
+    }
+
+    .contact-card {
+        font-size: small;
+    }
+
+    .contact-rht-p2 {
+        font-size: 28px;
+    }
+
+    .contact-rht-p3 {
+        font-size: 14px;
+    }
+
+    .submit-btn {
+        font-size: 12px;
+    }
+
+    .footer-1 {
+        width: 240px;
+    }
+
+    .footer-1 p {
+        font-size: 14px;
+    }
+
+    .footer-2,
+    .footer-3 {
+        font-size: 12px;
+    }
+
+    .foot-ft-hd {
+        font-size: 16px;
+    }
+
+    .news {
+        font-size: 16px;
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Tablet (768px) */
+@media (min-width:426px) and (max-width: 768px) {
+
+    /* Styles for portrait tablets and small laptops */
+    .container {
+        max-width: 720px;
+    }
+
+    .logo-img {
+        width: 150px;
+    }
+
+    .nav-menu a,
+    .quote-btn {
+        font-size: 12px;
+    }
+
+    .hero-section {
+        height: 310px;
+    }
+
+    .hero {
+        padding: 20px 40px;
+    }
+
+    .hero-txt {
+        width: 400px;
+
+    }
+
+    .p1 {
+        font-size: 10px;
+    }
+
+    .hero-txt h1 {
+        font-size: 28px;
+    }
+
+    .p2 {
+        font-size: 12px;
+    }
+
+
+    .cta-btn a {
+        font-size: 12px;
+    }
+
+    .srvc-top-lft h1 {
+        font-size: 28px;
+    }
+
+    .srvc-top-rht h4 {
+        font-size: 18px;
+    }
+
+    .srvc-top-rht p {
+        font-size: 14px;
+    }
+
+    .srvc-card {
+        flex-wrap: wrap;
+        gap: 40px;
+
+    }
+
+    .srvc-card img {
+        width: 300px;
+    }
+
+    .srvc-card h3 {
+        font-size: 18px;
+    }
+
+    .srvc-card p {
+        font-size: 14px;
+        width: 300px;
+    }
+
+    .book-btn {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+
+    .prms-lft .one {
+        font-size: 14px;
+    }
+
+    .prms-lft h1 {
+        font-size: 28px;
+    }
+
+    .prms-lft .two {
+        font-size: 16px;
+    }
+
+    .prms-rht {
+        max-width: 300px;
+    }
+
+    .fg-img .foreground {
+        width: 200px;
+    }
+
+    .exp-top .lft {
+        font-size: 24px;
+    }
+
+    .exp-top .rht h4 {
+        font-size: 16px;
+    }
+
+    .exp-top .rht p {
+        font-size: 12px;
+    }
+
+    .exp-det {
+        flex-wrap: wrap;
+    }
+
+    .exp-prf {
+        width: 300px;
+        height: 420px;
+    }
+
+    .exp-prf img {
+        width: 300px;
+    }
+
+    .exp-det .name {
+        font-size: 18px;
+    }
+
+    .rating {
+        font-size: 10px;
+    }
+
+    .exp-det p {
+        font-size: 12px;
+    }
+
+    .social {
+        font-size: 12px;
+    }
+
+    .com-lft {
+        max-width: 300px;
+    }
+
+    .com-lft .background img {
+        width: 280px;
+    }
+
+    .com-lft .foreground img {
+        width: 200px;
+    }
+
+    .com-lft .foreground {
+        left: 150px;
+        bottom: 60px;
+    }
+
+    .com-rht {
+        max-width: 350px;
+    }
+
+    .com-rht h1 {
+        font-size: 20px;
+        max-width: 350px;
+    }
+
+    .com-para {
+        font-size: 12px;
+        max-width: 340px;
+    }
+
+    .feature {
+        width: 350PX;
+    }
+
+    .feature-one p,
+    .feature-two p {
+        font-size: 10px;
+        width: 120px;
+    }
+
+    .cta-btn a {
+        font-size: 12px;
+        padding: 12px 25px;
+    }
+
+    .prc-hd-1 {
+        font-size: 14px;
+    }
+
+    .prc-hd-2 {
+        font-size: 24px;
+    }
+
+    .time {
+        width: 200px;
+        height: 40px;
+    }
+
+    .month-price a,
+    .year-price a {
+        font-size: 12px;
+    }
+
+    .pricing {
+        max-height: 100%;
+        padding: 20px 0;
+    }
+
+    .price-card {
+        flex-wrap: wrap;
+    }
+
+    .prc-crd {
+        width: 290px;
+        padding: 30px;
+    }
+
+    .prc-crd-head {
+        font-size: 14px;
+    }
+
+    .prc p {
+        font-size: 12px;
+    }
+
+    .rate {
+        font-size: 16px;
+    }
+
+    .plan-ft li {
+        font-size: 13px;
+    }
+
+    .rvw-cont {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .rvw-lft-p1 {
+        font-size: 24px;
+    }
+
+    .rvw-lft-p2 {
+        font-size: 12px;
+    }
+
+    .rvw-swch i {
+        font-size: 10px;
+    }
+
+    .rvw-rht-up {
+        flex-direction: column-reverse;
+        margin-top: 10px;
+    }
+
+    .fa-quote-right {
+        font-size: 18px;
+        width: 60px;
+        height: 60px;
+    }
+
+    .rvw-name {
+        font-size: 16px;
+        margin: 10px 0;
+        padding: 0;
+    }
+
+    .rvw-profession {
+        font-size: 12px;
+    }
+
+    .review-star {
+        font-size: 8px;
+    }
+
+    .rvw-rht-down {
+        font-size: 10px;
+    }
+
+    .blog-head-lft {
+        font-size: 24px;
+    }
+
+    .blg-hd-p1 {
+        font-size: 16px;
+    }
+
+    .blg-hd-p2 {
+        font-size: 12px;
+    }
+
+    .blog-card-all {
+        flex-wrap: wrap;
+    }
+
+    .blog-card img {
+        width: 280px;
+    }
+
+    .blog-card-p1 {
+        font-size: 10px;
+    }
+
+    .blog-card-p2 {
+        font-size: 12px;
+    }
+
+    .blog-card-p3 {
+        font-size: 12px;
+    }
+
+    .blog-detail {
+        width: 270px;
+    }
+
+    .rd-more-div {
+        margin-top: 28px;
+    }
+
+    .rd-more-btn {
+        font-size: 12px;
+        width: 270px;
+    }
+
+    .find-us {
+        font-size: 24px;
+    }
+
+    .contact-rht-p1 {
+        font-size: 12px;
+    }
+
+    .contact-rht-p2 {
+        font-size: 22px;
+    }
+
+    .contact-rht-p3 {
+        font-size: 12px;
+    }
+
+    .contact-card P,
+    .contact-card i {
+        font-size: 12px;
+    }
+
+    .submit-btn {
+        width: 150px;
+    }
+
+
+    .footer {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer-1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 40px;
+    }
+
+    .foot-logo img {
+        width: 150px;
+    }
+
+    .footer-1 p {
+        font-size: 12px;
+    }
+
+    .footer-2,
+    .footer-3 {
+        text-align: center;
+        font-size: 12px;
+    }
+
+    .foot-ft-hd {
+        font-size: 14px;
+    }
+
+    .footer-4 form {
+        align-items: center;
+    }
+
+    .news {
+        font-size: 14px;
+    }
+
+    .footer-4 .send-btn {
+        font-size: 12px;
+    }
+
+    .credit {
+        font-size: 12px;
+    }
+
+
+
+
+}
+
+
+
+
+
+
+
+
+/* Mobile - L (425px) */
+@media (max-width: 426px) {
+
+    /* Styles for large mobile devices */
+
+    .container {
+        max-width: 310px;
+    }
+
+    .logo-img {
+        width: 100PX;
+    }
+
+    .nav-bar {
+        flex-direction: column;
+        gap: 20px;
+        margin-bottom: 20px;
+    }
+
+    .nav-menu li {
+        font-size: 10px;
+    }
+
+    .quote-btn {
+        font-size: 10px;
+    }
+
+    .hero-section {
+        height: 125px;
+    }
+
+    .hero {
+        padding: 10px;
+        width: 300px;
+    }
+
+    .hero-txt {
+        width: 300px;
+    }
+
+    .p1 {
+        font-size: 10px;
+    }
+
+    .hero-txt h1 {
+        font-size: 16px;
+        width: 300px;
+        padding-bottom: 10px;
+    }
+
+    .p2 {
+        font-size: 10px;
+    }
+
+    .cta-btn {
+        flex-direction: column;
+        align-items: center;
+        font-size: 10px;
+    }
+
+    .cta-btn a {
+        padding: 5px 10px;
+    }
+
+    .srvc-top-lft h1 {
+        font-size: 16px;
+    }
+
+    .srvc-top-rht h4 {
+        font-size: 14px;
+    }
+
+    .srvc-top-rht p {
+        font-size: 12px;
+    }
+
+    .srvc-card {
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    .srvc-card img {
+        width: 300px;
+    }
+
+    .srvc-card h3 {
+        font-size: 14px;
+    }
+
+    .srvc-card p {
+        font-size: 12px;
+        width: 300px;
+    }
+
+    .book-btn {
+        font-size: 12px;
+    }
+
+    .promise {
+        flex-direction: column;
+    }
+
+    .prms-lft {
+        width: 300px;
+        align-items: center;
+        text-align: center;
+    }
+
+    .prms-lft .one {
+        font-size: 12px;
+    }
+
+    .prms-lft h1 {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    .prms-lft .two {
+        font-size: 12px;
+        margin-bottom: 20px;
+    }
+
+    .prms-rht {
+        width: 300px;
+    }
+
+    .prms-rht .background {
+        width: 250px;
+    }
+
+    .fg-img .foreground {
+        width: 100px;
+        bottom: 12px;
+        left: 12px;
+    }
+
+    .exp-top {
+        align-items: center;
+    }
+
+    .exp-top .lft {
+        font-size: 14px;
+    }
+
+    .exp-top .rht h4 {
+        font-size: 12px;
+    }
+
+    .exp-top .rht p {
+        font-size: 10px;
+    }
+
+    .exp-det {
+        flex-direction: column;
+    }
+
+    .exp-prf {
+        width: 300px;
+        height: 420px;
+    }
+
+    .exp-prf img {
+        width: 300px;
+    }
+
+    .exp-det .name {
+        font-size: 14px;
+    }
+
+    .rating {
+        font-size: 10px;
+    }
+
+    .exp-det p {
+        width: 290px;
+        font-size: 10px;
+    }
+
+
+    .community {
+        flex-direction: column;
+    }
+
+    .com-lft {
+        width: 300px;
+        margin-bottom: 50px;
+    }
+
+    .com-lft .background img {
+        width: 250px;
+    }
+
+    .com-lft .foreground img {
+        width: 160px;
+    }
+
+    .com-lft .foreground {
+        width: 160px;
+        left: 150px;
+        bottom: -50px;
+    }
+
+    .com-rht h1 {
+        width: 300px;
+        font-size: 20px;
+    }
+
+    .com-para {
+        width: 300px;
+        font-size: 12px;
+    }
+
+    .feature {
+        width: 300px;
+        height: 220px;
+        flex-direction: column;
+        gap: 16px;
+        align-items: center;
+    }
+
+    .feature p {
+        font-size: 12px;
+        padding: 0;
+        width: 150px;
+    }
+
+    .com-rht .cta-btn {
+        margin-top: 100px;
+        padding: 0;
+    }
+
+    .price-head {
+        align-items: center;
+    }
+
+    .prc-hd-1 {
+        font-size: 12px;
+        width: 300px;
+    }
+
+    .prc-hd-2 {
+        font-size: 24px;
+        width: 300px;
+    }
+
+    .pricing {
+        max-height: 100%;
+        margin-bottom: 10px;
+    }
+
+    .time {
+        width: 220px;
+    }
+
+    .month-price a,
+    .year-price a {
+        font-size: 14px;
+    }
+
+
+    .price-card {
+        flex-direction: column;
+        align-items: center;
+        padding-bottom: 20px;
+    }
+
+    .prc-crd {
+        width: 300px;
+        padding: 0 0 5px;
+    }
+
+    .prc-crd-head {
+        font-size: 12px;
+        width: 300px;
+    }
+
+    .plan-ft li {
+        font-size: 12px;
+        padding: 0 10px;
+    }
+
+    .plan-ft {
+        margin-left: 10px;
+    }
+
+    .prc p {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .book-btn-3 a {
+        font-size: 12px;
+        margin: 10px 20px;
+        padding: 10px 0;
+    }
+
+    .rvw {
+        flex-direction: column;
+
+    }
+
+    .rvw-lft {
+        width: 300px;
+        align-items: center;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .rvw-lft-p1 {
+        font-size: 20px;
+        width: 300px;
+    }
+
+    .rvw-lft-p2 {
+        font-size: 14px;
+        width: 300px;
+    }
+
+    .rvw-swch {
+        font-size: 8px;
+    }
+
+    .rvw-rht {
+        flex-direction: column;
+        align-items: center;
+        width: 300px;
+    }
+
+    .rvw-img {
+        align-items: center;
+    }
+
+    .blog-head {
+        width: 300px;
+    }
+
+    .blog-head-lft {
+        font-size: 16px;
+    }
+
+    .blog-head-lft p {
+        width: 140px;
+    }
+
+    .blg-hd-p1 {
+        font-size: 12px;
+    }
+
+    .blg-hd-p2 {
+        font-size: 10px;
+    }
+
+    .blog-card-all {
+        flex-direction: column;
+    }
+
+    .blog-card img {
+        width: 300px;
+    }
+
+    .blog-detail {
+        width: 270px;
+    }
+
+    .rd-more-btn {
+        width: 100px;
+    }
+
+    .contact {
+        flex-direction: column;
+    }
+
+    .contact-lft{
+        width: 300px;
+    }
+    .find-us {
+        width: 280px;
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+
+    .contact-card {
+        width: 260px;
+    }
+
+    .contact-card p {
+        font-size: 16px;
+    }
+
+    .contact-rht {
+        width: 300px;
+    }
+
+    .contact-rht-p2{
+        font-size: 20px;
+    }
+    .contact-rht-p1, .contact-rht-p3{
+        font-size: 16px;
+    }
+    .contact-form input{
+        width: 280px;
+        margin: 5px;
+    }
+    .contact-form textarea{
+        width: 280px;
+        margin: 5px ;
+        padding-bottom: 15px;
+    }
+
+    .submit-btn{
+        font-size: 12px;
+        width: 45%;
+    }
+
+
+  
+
+
+    .footer{
+        flex-direction: column;
+        width: 300px;
+    }
+    .foot-logo{
+        width: 150px;
+    }
+    .footer-1{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        font-size: 12px;
+        width: 300px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+   
+    .footer-2 , .footer-3{
+        text-align: center;
+        width: 300px;
+        margin-bottom: 10px;
+    }
+    .footer-4 form{
+        align-items: center;
+    }
+    .news{
+        margin-bottom: 5px;
+    }
+
+    .credit{
+        margin: auto 10px;
+    }
+
+    .credit p{
+        font-size: 10px;
+    }
+
+}
